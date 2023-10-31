@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "UrbanMemory.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/UrbanMemory.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UrbanMemory.Domain.dll": {}
+        }
       }
     }
   },
@@ -460,12 +470,18 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "UrbanMemory.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UrbanMemory.Domain/UrbanMemory.Domain.csproj",
+      "msbuildProject": "../UrbanMemory.Domain/UrbanMemory.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "UrbanMemory.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -496,7 +512,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj": {
+              "projectPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UrbanMemory.Domain\urban-memory.Domain.csproj" />
+    <ProjectReference Include="..\UrbanMemory.Domain\UrbanMemory.Domain.csproj" />
   </ItemGroup>
 
 </Project>

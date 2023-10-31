@@ -1,0 +1,18 @@
+using Microsoft.AspNetCore.Mvc;
+using UrbanMemory.Domain.Catelog;
+
+namespace UrbanMemory.Api.Controllers
+{
+    [ApiContoroller]
+    [Route("[controller]")]
+    public class CatelogController : ControllerBase
+    {
+
+    }
+
+    [HttpGet]
+    public IActionResult GetItems()
+    {
+        return Ok("hello world.");
+    }
+}

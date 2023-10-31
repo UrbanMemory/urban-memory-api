@@ -31,3 +31,5 @@
 /Users/nickmiller/urban-memory-api/UrbanMemory.Api/obj/Debug/net7.0/UrbanMemory.Api.pdb
 /Users/nickmiller/urban-memory-api/UrbanMemory.Api/obj/Debug/net7.0/UrbanMemory.Api.genruntimeconfig.cache
 /Users/nickmiller/urban-memory-api/UrbanMemory.Api/obj/Debug/net7.0/ref/UrbanMemory.Api.dll
+/Users/nickmiller/urban-memory-api/UrbanMemory.Api/bin/Debug/net7.0/UrbanMemory.Domain.dll
+/Users/nickmiller/urban-memory-api/UrbanMemory.Api/bin/Debug/net7.0/UrbanMemory.Domain.pdb

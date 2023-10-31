@@ -1,6 +1,6 @@
-﻿namespace urban_memory.Domain;
+﻿namespace UrbanMemory.Domain;
 
 public class Class1
 {
-
+    
 }

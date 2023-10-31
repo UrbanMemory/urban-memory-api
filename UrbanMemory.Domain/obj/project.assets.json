@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nickmiller/urban-memory-api/urban-memory.Domain/urban-memory.Domain.csproj",
-      "projectName": "urban-memory.Domain",
-      "projectPath": "/Users/nickmiller/urban-memory-api/urban-memory.Domain/urban-memory.Domain.csproj",
+      "projectUniqueName": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
+      "projectName": "UrbanMemory.Domain",
+      "projectPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
       "packagesPath": "/Users/nickmiller/.nuget/packages/",
-      "outputPath": "/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/",
+      "outputPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
