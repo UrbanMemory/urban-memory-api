@@ -1,0 +1,11 @@
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/bin/Debug/net7.0/urban-memory.Domain.deps.json
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/bin/Debug/net7.0/urban-memory.Domain.dll
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/bin/Debug/net7.0/urban-memory.Domain.pdb
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.AssemblyInfoInputs.cache
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.AssemblyInfo.cs
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.csproj.CoreCompileInputs.cache
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.dll
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/refint/urban-memory.Domain.dll
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/urban-memory.Domain.pdb
+/Users/nickmiller/urban-memory-api/urban-memory.Domain/obj/Debug/net7.0/ref/urban-memory.Domain.dll

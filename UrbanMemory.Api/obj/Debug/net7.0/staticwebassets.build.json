@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wG1WB/lW92E+LzdJxGeSMWZuK8YL6mf5n7XtiMagpCs=",
+  "Source": "UrbanMemory.Api",
+  "BasePath": "_content/UrbanMemory.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
