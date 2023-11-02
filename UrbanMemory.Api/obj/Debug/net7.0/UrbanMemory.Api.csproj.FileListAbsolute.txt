@@ -68,3 +68,38 @@ C:\Users\ryanp\OneDrive\Documents\API Repos\urban-memory-api\UrbanMemory.Api\obj
 C:\Users\ryanp\OneDrive\Documents\API Repos\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.CopyComplete
 C:\Users\ryanp\OneDrive\Documents\API Repos\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.genruntimeconfig.cache
 C:\Users\ryanp\OneDrive\Documents\API Repos\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\ref\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Api.exe
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Api.deps.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Api.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Api.pdb
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Domain.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\bin\Debug\net7.0\UrbanMemory.Domain.pdb
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets\msbuild.UrbanMemory.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.UrbanMemory.Api.props
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UrbanMemory.Api.props
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UrbanMemory.Api.props
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\scopedcss\bundle\UrbanMemory.Api.styles.css
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\refint\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.pdb
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.genruntimeconfig.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\ref\UrbanMemory.Api.dll

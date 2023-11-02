@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using UrbanMemory.Domain.Catelog;
+using Microsoft.EntityFrameworkCore;
 
 namespace UrbanMemory.Api.Controllers
 {
@@ -10,10 +11,12 @@ namespace UrbanMemory.Api.Controllers
         [HttpGet]
         public IActionResult GetItems()
         {
-            var items = new List<Item>()
+            return Ok("hello world");
         }
-                new Item("Shirt", "Ohio State shirt.", "Nike", 29.99),
-                new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
-    };
-    return Ok(items)
+//                 new Item("Shirt", "Ohio State shirt.", "Nike", 29.99),
+//                 new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
+//     };
+//     return Ok(items)
+// }
+    }
 }
