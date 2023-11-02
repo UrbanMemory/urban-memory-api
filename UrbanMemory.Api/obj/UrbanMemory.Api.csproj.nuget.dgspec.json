@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nickmiller/urban-memory-api/UrbanMemory.Api/UrbanMemory.Api.csproj": {}
+    "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {}
   },
   "projects": {
-    "/Users/nickmiller/urban-memory-api/UrbanMemory.Api/UrbanMemory.Api.csproj": {
+    "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nickmiller/urban-memory-api/UrbanMemory.Api/UrbanMemory.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
         "projectName": "UrbanMemory.Api",
-        "projectPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Api/UrbanMemory.Api.csproj",
-        "packagesPath": "/Users/nickmiller/.nuget/packages/",
-        "outputPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Api/obj/",
+        "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+        "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/nickmiller/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -29,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj": {
-                "projectPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj"
+              "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
             }
           }
@@ -73,24 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj": {
+    "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
         "projectName": "UrbanMemory.Domain",
-        "projectPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
-        "packagesPath": "/Users/nickmiller/.nuget/packages/",
-        "outputPath": "/Users/nickmiller/urban-memory-api/UrbanMemory.Domain/obj/",
+        "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+        "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/nickmiller/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -129,7 +123,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

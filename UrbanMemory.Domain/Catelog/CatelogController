@@ -3,16 +3,17 @@ using UrbanMemory.Domain.Catelog;
 
 namespace UrbanMemory.Api.Controllers
 {
-    [ApiContoroller]
+    [ApiController]
     [Route("[controller]")]
     public class CatelogController : ControllerBase
     {
-
-    }
-
-    [HttpGet]
-    public IActionResult GetItems()
-    {
-        return Ok("hello world.");
-    }
+        [HttpGet]
+        public IActionResult GetItems()
+        {
+            var items = new List<Item>()
+        }
+                new Item("Shirt", "Ohio State shirt.", "Nike", 29.99),
+                new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
+    };
+    return Ok(items)
 }
