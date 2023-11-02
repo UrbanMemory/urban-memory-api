@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using UrbanMemory.Domain.Catelog;
-using Microsoft.EntityFrameworkCore;
 
 namespace UrbanMemory.Api.Controllers
 {
