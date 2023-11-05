@@ -26,6 +26,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+                "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
+              },
               "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
                 "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
@@ -45,6 +48,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -66,6 +87,69 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "projectName": "UrbanMemory.Data",
+        "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "C:\\Users\\ryanp\\OneDrive\\Documents\\API Repos\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
