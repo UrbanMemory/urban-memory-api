@@ -1,4 +1,5 @@
 ﻿using UrbanMemory.Domain.Catelog;
+using UrbanMemory.Domain.Orders; 
 using Microsoft.EntityFrameworkCore;
 
 namespace UrbanMemory.Data
@@ -8,9 +9,7 @@ namespace UrbanMemory.Data
         public StoreContext(DbContextOptions<StoreContext> options) : base(options) { }
 
         public DbSet<Item> Items { get; set; }
-
-        public Dbset<Order> Orders { get; set; }
-    }
+        public DbSet<Order> Orders { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -18,3 +17,4 @@ namespace UrbanMemory.Data
             DbInitializer.Initialize(builder);
         }
     }
+}
