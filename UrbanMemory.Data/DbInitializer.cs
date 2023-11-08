@@ -14,7 +14,7 @@ namespace UrbanMemory.Data
                 },
                 new Item("Shorts", "Ohio State shorts", "Nike", 44.99m)
                 {
-                    Id= 2
+                    Id = 2
                 }
             );
         }
