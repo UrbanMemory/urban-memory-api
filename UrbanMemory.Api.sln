@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanMemory.Api", "UrbanMem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanMemory.Domain", "UrbanMemory.Domain\UrbanMemory.Domain.csproj", "{620B5CC0-3CE4-4E85-813F-C746B3AC863B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{31D566E2-6978-472E-BE80-DDDB81F5DDD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanMemory.Domain.Tests", "tests\UrbanMemory.Domain.Tests\UrbanMemory.Domain.Tests.csproj", "{45062D0A-BDC4-467C-8E9D-A692D73369F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,12 @@ Global
 		{620B5CC0-3CE4-4E85-813F-C746B3AC863B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620B5CC0-3CE4-4E85-813F-C746B3AC863B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620B5CC0-3CE4-4E85-813F-C746B3AC863B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45062D0A-BDC4-467C-8E9D-A692D73369F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45062D0A-BDC4-467C-8E9D-A692D73369F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45062D0A-BDC4-467C-8E9D-A692D73369F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45062D0A-BDC4-467C-8E9D-A692D73369F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45062D0A-BDC4-467C-8E9D-A692D73369F8} = {31D566E2-6978-472E-BE80-DDDB81F5DDD2}
 	EndGlobalSection
 EndGlobal
