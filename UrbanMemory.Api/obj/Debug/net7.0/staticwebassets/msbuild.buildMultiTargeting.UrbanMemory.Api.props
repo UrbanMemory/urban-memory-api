@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/UrbanMemory.Api.props" />
+  <Import Project="..\build\UrbanMemory.Api.props" />
 </Project>

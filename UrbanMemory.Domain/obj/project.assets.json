@@ -8,23 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/nickmiller/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\tyler\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "projectName": "UrbanMemory.Domain",
-      "projectPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Domain/UrbanMemory.Domain.csproj",
-      "packagesPath": "/Users/nickmiller/.nuget/packages/",
-      "outputPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Domain/obj/",
+      "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/nickmiller/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -63,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

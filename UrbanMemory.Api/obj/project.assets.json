@@ -12028,23 +12028,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nickmiller/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\tyler\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Api/UrbanMemory.Api.csproj",
+      "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
       "projectName": "UrbanMemory.Api",
-      "projectPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Api/UrbanMemory.Api.csproj",
-      "packagesPath": "/Users/nickmiller/.nuget/packages/",
-      "outputPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Api/obj/",
+      "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+      "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/nickmiller/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -12056,11 +12052,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Data/UrbanMemory.Data.csproj": {
-              "projectPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Data/UrbanMemory.Data.csproj"
+            "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+              "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
             },
-            "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Domain/UrbanMemory.Domain.csproj": {
-              "projectPath": "/Users/nickmiller/urban-memory-api-3/UrbanMemory.Domain/UrbanMemory.Domain.csproj"
+            "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+              "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
             }
           }
         }
@@ -12127,7 +12123,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
