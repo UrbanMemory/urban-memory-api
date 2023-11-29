@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Emerald.Tiger.Api.Security
 {
-    public class HasScopeHandler : AuthorizationHandler<HasScopeRequirements>
+    public class HasScopeHandler : AuthorizationHandler<HasScopeRequirement>
     {
         protected override Task HandleRequirementAsync(
             AuthorizationHandlerContext context,
@@ -17,7 +17,7 @@ namespace Emerald.Tiger.Api.Security
                 .FindFirst(c => c.Type == "scope" && c.Issuer == requirement.Issuer)
                 .Value.Split(' ');
 
-            if (scopes.Any(s => == requirement.Scope))
+            if (scopes.Any(s => s == requirement.Scope))
                 context.Succeed(requirement);
 
             return Task.CompletedTask;

@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using UrbanMemory.Domain.Catelog;
 using UrbanMemory.Data;
+using Microsoft.AspNetCore.Authorization;
+using UrbanMemory.Api.Security;
 
 namespace UrbanMemory.Api.Controllers
 {
@@ -79,6 +81,7 @@ namespace UrbanMemory.Api.Controllers
  }
 
  [HttpDelete("{id:int}")]
+ [Authorize("delete:catelog")]
  public IActionResult Delete(int id)
  {
    var item = _db.Items.Find(id);
