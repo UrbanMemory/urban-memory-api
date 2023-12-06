@@ -2,7 +2,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Emerald.Tiger.Api.Security
+namespace Urban.Memory.Api.Security
 {
     public class HasScopeHandler : AuthorizationHandler<HasScopeRequirement>
     {

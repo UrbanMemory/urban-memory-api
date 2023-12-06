@@ -17,18 +17,18 @@ throw new ArgumentNullException("Auth0:Authority");
 
 builder.Services.AddControllers();
 
-builder.Services.AddAuthentication(option =>
+builder.Services.AddAuthentication(options =>
 {
     options.DefualtAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 })
-.AddJwtBearer(Options =>
+.AddJwtBearer(options =>
 {
     options.Authority = authority;
     options.Audience = audience;
 });
 
-builder.Services.AddAuthorization(option =>
+builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("delete:catelog", policy =>
     policy.RequireAuthenticatedUser().RequireClaim("scope", "delete:catelog"));

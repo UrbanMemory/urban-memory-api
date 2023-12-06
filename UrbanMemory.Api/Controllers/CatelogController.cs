@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using UrbanMemory.Domain.Catelog;
 using UrbanMemory.Data;
 using Microsoft.AspNetCore.Authorization;
-using UrbanMemory.Api.Security;
+
 
 namespace UrbanMemory.Api.Controllers
 {

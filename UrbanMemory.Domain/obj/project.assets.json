@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "projectName": "UrbanMemory.Domain",
-      "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
+      "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"

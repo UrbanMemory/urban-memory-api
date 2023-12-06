@@ -1212,3 +1212,13 @@ C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.
 C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.pdb
 C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.genruntimeconfig.cache
 C:\Users\tyler\OneDrive\Desktop\urban-memory-api\UrbanMemory.Api\obj\Debug\net7.0\ref\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\refint\UrbanMemory.Api.dll
+C:\Users\tyler\OneDrive\Desktop\urban-memory-api-1\UrbanMemory.Api\obj\Debug\net7.0\UrbanMemory.Api.pdb

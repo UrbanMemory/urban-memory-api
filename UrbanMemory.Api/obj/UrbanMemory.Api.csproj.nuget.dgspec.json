@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {}
+    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {
+    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
         "projectName": "UrbanMemory.Api",
-        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
         "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Api\\obj\\",
+        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
-                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
+              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
               },
-              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
-                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
             }
           }
@@ -45,6 +45,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -101,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
         "projectName": "UrbanMemory.Data",
-        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
         "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Data\\obj\\",
+        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -123,8 +131,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
-                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+              "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
             }
           }
@@ -164,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+    "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
         "projectName": "UrbanMemory.Domain",
-        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+        "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
         "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
+        "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-1\\UrbanMemory.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"

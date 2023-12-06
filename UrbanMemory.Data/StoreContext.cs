@@ -6,10 +6,9 @@ namespace UrbanMemory.Data
 {
     public class StoreContext : DbContext
     {
-        public StoreContext() {
-
-        }
-        public StoreContext(DbContextOptions<StoreContext> options) : base(options) { }
+        public StoreContext(DbContextOptions<StoreContext> options) 
+            : base(options) 
+        { }
 
         public DbSet<Item> Items { get; set; }
         public DbSet<Order> Orders { get; set; }
@@ -18,12 +17,6 @@ namespace UrbanMemory.Data
         {
             base.OnModelCreating(builder);
             DbInitializer.Initialize(builder);
-        }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-            if (!optionsBuilder.IsConfigured) {
-                optionsBuilder.UseSqlite("Data Source = ../Registrar.sqlite", b => b.MigrationsAssembly("UrbanMemory.Api"));
-            }
         }
     }
 }
