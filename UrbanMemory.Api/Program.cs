@@ -1,7 +1,7 @@
 using UrbanMemory.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
-using UrbanMemory.Api.Security;
+using Urban.Memory.Api.Security;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 
@@ -19,7 +19,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddAuthentication(options =>
 {
-    options.DefualtAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 })
 .AddJwtBearer(options =>

@@ -1,0 +1,10 @@
+### GET token from Auth0
+curl --request POST \
+  --url https://dev-03d6t5ie1q4p6rmd.us.auth0.com/oauth/token \
+  --header 'Content-Type: application/json' \
+  --data '{"client_id":"4ULXS4iCyvbImGI2IAsd4HQuBoilUbEV","client_secret":"BMPDzAKO40fldUI24NaiTiQEcxAVBV14vwQLA6ICpymNG05fXR8ORhEhFUILDqZo","audience":"https://urbanmemory","grant_type":"client_credentials"}'
+
+### DELETE an Item from the Catalog collection
+curl --request DELETE \
+  --url http://localhost:5173/catelog/3 \
+  --header 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InktOWpvSk5LQWRIZ09SVmk2dWI4dCJ9.eyJpc3MiOiJodHRwczovL2Rldi0wM2Q2dDVpZTFxNHA2cm1kLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiI0VUxYUzRpQ3l2YkltR0kySUFzZDRIUXVCb2lsVWJFVkBjbGllbnRzIiwiYXVkIjoiaHR0cHM6Ly91cmJhbm1lbW9yeSIsImlhdCI6MTcwMTk5MTE2MywiZXhwIjoxNzAyMDc3NTYzLCJhenAiOiI0VUxYUzRpQ3l2YkltR0kySUFzZDRIUXVCb2lsVWJFViIsInNjb3BlIjoiZGVsZXRlOmNhdGVsb2ciLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMifQ.qy2RhoSK6DDzpf94D7C7yVOF-3dZdNDOJmxBv_O-9UqTxbmX8TNmveY9Kxle6M9D6yhdtFtaAOUgAxDhxcyoMQBrpRQ7u7sAM5-nZSSKCKwjfTG2y4BhsbL7dj19cvDYIEnB3H_FwOaWEfzNKi5GfyliSBb8TmKCu1l1S8dVa1qtRX7ZlH7hj_f1vEo9vRu9f5lgaiTQmpjarvW_lEulp28_D4j2FiplEEDf25zEr28MrA3p5pRKpmJ337COcqZ_yON1pq8SxLr4dl96Ip-nLPTRJbH6i6XfkqTmtniEHS55r_n-Zf9G270cDYAa3piSxmz0NIk9SMy8Ii31fCrJQw'
