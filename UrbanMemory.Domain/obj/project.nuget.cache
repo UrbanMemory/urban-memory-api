@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GPnu9fbnNPTI/S6T4btaQWQ7q+L+WKL7vsCT/0IO9puRW33xU6rB9fhF+iduvibRi4MGMdvV1M5xeeR8adSWpw==",
+  "dgSpecHash": "2qv6h20VAvHpjap6wP5B37+Mo88KdmcWNKVZNYxY+RmXXsZVwoiZXRKpGOe8Fj8zzBi7fW5njQfgUCc4lxyfaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+  "projectFilePath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

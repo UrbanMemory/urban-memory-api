@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectUniqueName": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "projectName": "UrbanMemory.Domain",
-      "projectPath": "c:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\obj\\",
+      "outputPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
