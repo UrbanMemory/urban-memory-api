@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//test
 string authority = builder.Configuration["Auth0:Authority"] ??
 throw new ArgumentNullException("Auth0:Authority");
 
