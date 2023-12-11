@@ -1452,11 +1452,11 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "Microsoft.Data.SqlClient/5.1.1": {
+      "Microsoft.Data.SqlClient/5.1.2": {
         "type": "package",
         "dependencies": {
           "Azure.Identity": "1.7.0",
-          "Microsoft.Data.SqlClient.SNI.runtime": "5.1.0",
+          "Microsoft.Data.SqlClient.SNI.runtime": "5.1.1",
           "Microsoft.Identity.Client": "4.47.2",
           "Microsoft.IdentityModel.JsonWebTokens": "6.24.0",
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.24.0",
@@ -1490,7 +1490,7 @@
           }
         }
       },
-      "Microsoft.Data.SqlClient.SNI.runtime/5.1.0": {
+      "Microsoft.Data.SqlClient.SNI.runtime/5.1.1": {
         "type": "package",
         "runtimeTargets": {
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll": {
@@ -6291,10 +6291,10 @@
         "version.txt"
       ]
     },
-    "Microsoft.Data.SqlClient/5.1.1": {
-      "sha512": "MW5E9HFvCaV069o8b6YpuRDPBux8s96qDnOJ+4N9QNUCs7c5W3KxwQ+ftpAjbMUlImL+c9WR+l+f5hzjkqhu2g==",
+    "Microsoft.Data.SqlClient/5.1.2": {
+      "sha512": "q/F1HTOn9QLwgRp4esJIA1b2X15faeV8WozkNhvU3Zk0DcYDWUsEf5WMkbypY4CaNkZntOduods5wLyv8I699w==",
       "type": "package",
-      "path": "microsoft.data.sqlclient/5.1.1",
+      "path": "microsoft.data.sqlclient/5.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6321,7 +6321,7 @@
         "lib/netstandard2.1/Microsoft.Data.SqlClient.dll",
         "lib/netstandard2.1/Microsoft.Data.SqlClient.pdb",
         "lib/netstandard2.1/Microsoft.Data.SqlClient.xml",
-        "microsoft.data.sqlclient.5.1.1.nupkg.sha512",
+        "microsoft.data.sqlclient.5.1.2.nupkg.sha512",
         "microsoft.data.sqlclient.nuspec",
         "ref/net462/Microsoft.Data.SqlClient.dll",
         "ref/net462/Microsoft.Data.SqlClient.pdb",
@@ -6351,16 +6351,16 @@
         "runtimes/win/lib/netstandard2.1/Microsoft.Data.SqlClient.pdb"
       ]
     },
-    "Microsoft.Data.SqlClient.SNI.runtime/5.1.0": {
-      "sha512": "jVsElisM5sfBzaaV9kdq2NXZLwIbytetnsOIlJ0cQGgQP4zFNBmkfHBnpwtmKrtBJBEV9+9PVQPVrcCVhDgcIg==",
+    "Microsoft.Data.SqlClient.SNI.runtime/5.1.1": {
+      "sha512": "wNGM5ZTQCa2blc9ikXQouybGiyMd6IHPVJvAlBEPtr6JepZEOYeDxGyprYvFVeOxlCXs7avridZQ0nYkHzQWCQ==",
       "type": "package",
-      "path": "microsoft.data.sqlclient.sni.runtime/5.1.0",
+      "path": "microsoft.data.sqlclient.sni.runtime/5.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "dotnet.png",
-        "microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
+        "microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
         "microsoft.data.sqlclient.sni.runtime.nuspec",
         "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll",
         "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll",
@@ -12710,6 +12710,7 @@
       "Microsoft.AspNetCore.Authentication >= 2.2.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.14",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
+      "Microsoft.Data.SqlClient >= 5.1.2",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.13",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.13",
@@ -12721,19 +12722,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ryanp\\.nuget\\packages\\": {}
+    "C:\\Users\\tyler\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+      "projectUniqueName": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
       "projectName": "UrbanMemory.Api",
-      "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
-      "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\obj\\",
+      "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+      "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -12745,11 +12746,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
-              "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
+            "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+              "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
             },
-            "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
-              "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+            "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+              "projectPath": "C:\\Users\\tyler\\OneDrive\\Desktop\\urban-memory-api-4\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
             }
           }
         }
@@ -12775,6 +12776,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.10, )"
+          },
+          "Microsoft.Data.SqlClient": {
+            "target": "Package",
+            "version": "[5.1.2, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -12824,7 +12829,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
