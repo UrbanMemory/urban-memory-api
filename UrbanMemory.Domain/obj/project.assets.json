@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectUniqueName": "c:\\Users\\ryanp\\Final API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "projectName": "UrbanMemory.Domain",
-      "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+      "projectPath": "c:\\Users\\ryanp\\Final API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
       "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
+      "outputPath": "c:\\Users\\ryanp\\Final API\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,13 +62,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

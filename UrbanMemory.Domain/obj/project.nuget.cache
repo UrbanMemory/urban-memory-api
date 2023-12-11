@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qv6h20VAvHpjap6wP5B37+Mo88KdmcWNKVZNYxY+RmXXsZVwoiZXRKpGOe8Fj8zzBi7fW5njQfgUCc4lxyfaQ==",
+  "dgSpecHash": "gMipij2JXBtHRFtmtSe/zFexg4fDf366LiDQzdqYWkm+UWBi7Bcxdku2VDcHBXNn8EY9nlT5W7anZUhdTOrGqA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+  "projectFilePath": "c:\\Users\\ryanp\\Final API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
