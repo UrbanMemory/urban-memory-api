@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NBO15XxkQ5aqbzmFXsvjMq3jLMzmHggH+sIEMN5AVqyZYfGFo9kRGXgQTQQGWV+qLlSRkTXCvprIL+Ua428NVg==",
+  "dgSpecHash": "ARzibaE4p/x6DBPPSzZPncLYhkadYlqehOPNTw9A12eCm3HAVPBbTkFpPGFZNun3CW5r5ORFeBxWf7bdJf60eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+  "projectFilePath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryanp\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ryanp\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

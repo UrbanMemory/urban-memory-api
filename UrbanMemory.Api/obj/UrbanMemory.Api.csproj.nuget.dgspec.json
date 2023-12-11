@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {}
+    "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {
+    "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+        "projectUniqueName": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
         "projectName": "UrbanMemory.Api",
-        "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
+        "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\UrbanMemory.Api.csproj",
         "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Api\\obj\\",
+        "outputPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
-                "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
+              "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+                "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj"
               },
-              "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
-                "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+              "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
+    "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "projectUniqueName": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
         "projectName": "UrbanMemory.Data",
-        "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
+        "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\UrbanMemory.Data.csproj",
         "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Data\\obj\\",
+        "outputPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -131,8 +131,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
-                "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
+              "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+                "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
+    "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
         "projectName": "UrbanMemory.Domain",
-        "projectPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
+        "projectPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
         "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanp\\API\\urban-memory-api-1\\UrbanMemory.Domain\\obj\\",
+        "outputPath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
