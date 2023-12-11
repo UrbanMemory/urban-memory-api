@@ -6,12 +6,15 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//test
 string authority = builder.Configuration["Auth0:Authority"] ??
 throw new ArgumentNullException("Auth0:Authority");
 
 string audience = builder.Configuration["Auth0:Authority"] ??
 throw new ArgumentNullException("Auth0:Authority");
+
+string storeConnectionString = builder.Configuration.GetConnectionString("StoreConnection") ??
+    throw new ArgumentNullException("ConnectionString:StoreConnection");
 
 // Add services to the container.
 
@@ -34,7 +37,7 @@ builder.Services.AddAuthorization(options =>
     policy.RequireAuthenticatedUser().RequireClaim("scope", "delete:catelog"));
 });
 
-builder.Services.AddDbContext<StoreContext>(options => options.UseSqlite("Data Source=../Registrar.sqlite", b => b.MigrationsAssembly("UrbanMemory.Api")));
+builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(storeConnectionString, b=> b.MigrationsAssembly("UrbanMemory.Api")));
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>

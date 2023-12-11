@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\UrbanMemory.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\ryanp\\New API\\urban-memory-api\\UrbanMemory.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
